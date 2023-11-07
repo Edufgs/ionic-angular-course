@@ -1,0 +1,7 @@
+*
+!.gitignore
+!README.md
+!shell.nix
+!Dockerfile
+!*.md
+!docs/
